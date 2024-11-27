@@ -1,2 +1,2 @@
 # SKYLINE
-Shine with colours
+Shine with gradients
